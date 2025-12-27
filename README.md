@@ -23,7 +23,7 @@ I am a **Data Scientist** and **Dual-Degree MSc candidate** specializing in **Da
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/ali-allouf-586235282/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="(https://www.researchgate.net/profile/Ali-Allouf?ev=hdr_xprf)" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+<a href="https://www.researchgate.net/profile/Ali-Allouf" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 <a href="mailto:ali.allouf@telecom-sudparis.eu"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
