@@ -1,8 +1,8 @@
 # Hi there, I'm Ali Allouf 👋 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=aliallouf&show_icons=true&theme=vision-friendly-dark" alt="Ali's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliallouf&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliallouf&show_icons=true&theme=vision-friendly-dark" alt="Ali's Stats" height="150" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aliallouf&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="150" />
 </p>
 
 ### 📡 Professional Summary
