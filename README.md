@@ -28,4 +28,3 @@ I am a **Data Scientist** and **Dual-Degree MSc candidate** specializing in **Da
 </p>
 
 ### 🔥 Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliallouf&theme=vision-friendly-dark)
