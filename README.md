@@ -8,7 +8,7 @@
 ### 📡 Professional Summary
 I am a **Data Scientist** and **Dual-Degree MSc candidate** specializing in **Data Science and Network Intelligence** at Telecom SudParis. With a background in **Telecommunication Engineering**, my expertise ranges from Python automation and machine learning to 5G network architecture and cloud-edge integration.
 
-- 🔭 **Currently focusing on:** Digital Twins, Digital Twins Modeling, Real-time emotion recognition, 5G wave propagation analysis, and Network Intelligence.
+- 🔭 **Currently focusing on:** Digital Twins, Digital Twins Modeling, Real-time emotion recognition, 5G Architecture, and Network Intelligence.
 - 🎓 **Education:** Pursuing MSc degrees at **Institut Polytechnique de Paris** and **University of Calabria**.
 - 🏫 **Experience:** Former Lecturer and Volunteer Trainer at Tishreen University.
 
