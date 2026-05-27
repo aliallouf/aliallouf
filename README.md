@@ -10,7 +10,7 @@ I am a **Data Scientist** and **Dual-Degree MSc candidate** specializing in **Da
 
 - 🔭 **Currently focusing on:** Digital Twins, Digital Twins Modeling, Real-time emotion recognition, 5G Architecture, and Network Intelligence.
 - 🎓 **Education:** Pursuing MSc degrees at **Institut Polytechnique de Paris** and **University of Calabria**.
-- 🏫 **Experience:** Former Lecturer and Volunteer Trainer at Tishreen University.
+- 🏫 **Experience:** Research intern at Institut Polytechnique de Paris.
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
