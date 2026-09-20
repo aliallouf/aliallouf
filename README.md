@@ -1,8 +1,8 @@
 # Hi there, I'm Ali Allouf 👋 
 
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aliallouf&show_icons=true&theme=vision-friendly-dark" alt="Ali's Stats" height="150" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliallouf&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliallouf&show_icons=true&theme=vision-friendly-dark" alt="Ali's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliallouf&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="150" />
 </p>
 
 ### 📡 Professional Summary
@@ -26,5 +26,3 @@ I am a **Data Scientist** and **Dual-Degree MSc candidate** specializing in **Da
 <a href="https://www.researchgate.net/profile/Ali-Allouf" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 <a href="mailto:ali.allouf@telecom-sudparis.eu"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-### 🔥 Activity
